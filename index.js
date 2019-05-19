@@ -1,6 +1,7 @@
+/* eslint-disable no-console */
 const fs = require('fs');
 const courses = require('./courses');
-/* eslint-disable no-console */
+
 function displayCourses(coursesArray) {
   coursesArray.forEach((course, index) => {
     setTimeout(() => {
