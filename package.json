@@ -1,0 +1,27 @@
+{
+  "name": "primera-entrega",
+  "version": "1.0.0",
+  "description": "Primera entrega curso Introducción a Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgiraldom/introudccion-node-primera-entrega.git"
+  },
+  "author": "Carlos Giraldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgiraldom/introudccion-node-primera-entrega/issues"
+  },
+  "homepage": "https://github.com/cgiraldom/introudccion-node-primera-entrega#readme",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  }
+}
